@@ -111,11 +111,3 @@ produces sharply-peaked but poorly-calibrated probabilities — see the
 docstring inside `cwsf_model.py` for the full technical explanation.
 
 ---
-
-## If you outgrow the single file
-
-If this project grows and you want it on GitHub as a proper installable
-package later, the multi-file package version (with `setup.py`,
-`pip install -e .`) covers the same model — just ask and I can give
-you that version again. For now, this single file is the simplest
-way to use and understand CWSF without any packaging overhead.
