@@ -1,4 +1,4 @@
-<div align="center">
+
 
 # CWSF
 ### Confidence-Weighted Stacking Forest
@@ -11,9 +11,8 @@
 
 3rd Year Undergraduate · Department of Geology and Geophysics · IIT Kharagpur
 
-B.S. Data Science and Applications · IIT Madras
+Pursuing B.S. Data Science and Applications · IIT Madras
 
-</div>
 
 ---
 
