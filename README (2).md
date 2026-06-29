@@ -112,7 +112,7 @@ For a single test sample $x$, with base models $M_1, M_2, \dots, M_k$ each produ
 
 ### Step 1 — Get each base model's probability output
 
-$$p_i(c) = M_i.\text{predict\_proba}(x)_c \quad \text{for class } c = 1, \dots, C$$
+$$p_i(c) = M_i.\mathrm{predict\_proba}(x)_c \quad \text{for class } c = 1, \dots, C$$
 
 ### Step 2 — Measure each model's confidence using Shannon entropy
 
